@@ -1,0 +1,7 @@
+15:43:07, 16:0921 Total payment = $5.0
+16/09/2021 17:58:03 Total payment = $0
+16/09/2021 17:58:19 Total payment = $0
+16/09/2021 17:58:24 Total payment = $0
+16/09/2021 17:59:04 Total payment = $12.25
+16/09/2021 17:59:38 Total payment = $2.25
+16/09/2021 18:09:32 Total payment = $9.75

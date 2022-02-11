@@ -1,0 +1,4 @@
+P100,Milk,litres,2.50
+P200,Chocolates,bar,3.75
+P300,Bread,bag,2.25
+P400,Toilet Paper,bag,9.75
